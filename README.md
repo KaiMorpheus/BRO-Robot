@@ -11,7 +11,7 @@ The objective of the code is to pass through a great number os obstacles and whe
 
 And when it finishes colecting those spheres, it has to delivery it to two specific places in the corners of a little arena that is where it collected the spheres.
 
-Im gonna drop the rules and instructions of the olympiad on this folder.
+Im gonna drop the rules and instructions of the olympiad on this folder, unfortunately, it only has a portuguese version, and it isnt of my authority
 
 I started from the absolute zero, i knew nothing of python and robotics at all, and in six months i studied everyday to build this code, it works with a bluetooth conection between two controllers and this was one of the hardest things in the code, because the instructions of the lego weren't very clear, and i had to use external knowledge to communicate two controllers, because one controller only has four ports for motors and four ports for sensors, an i was using six sensors and five motors.
 
